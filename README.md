@@ -41,16 +41,16 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 ## Final Product
 
 ### Home Page
-!["screenshot of homepage"](./docs/jungle-homepage.jpg)
+!["screenshot of homepage"](/docs/jungle-homepage.jpg)
 
 ### Admin Categories
-!["screenshot of admin categories"](./docs/admin-categories.jpg)
+!["screenshot of admin categories"](/docs/admin-categories.jpg)
 
 ### Admin Products
-!["screenshot of admin products"](./docs/admin-products.jpg)
+!["screenshot of admin products"](/docs/admin-products.jpg)
 
 ### My Cart
-!["screenshot of cart"](./docs/my-cart.jpg)
+!["screenshot of cart"](/docs/my-cart.jpg)
 
 ### Signups
-!["screenshot of signups"](./docs/signup-page.jpg)
+!["screenshot of signups"](/docs/signup-page.jpg)
