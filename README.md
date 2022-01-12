@@ -1,13 +1,19 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+Jungle is a mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. This project was a simulation of the real world e-commerce website where I learned a new language, ecosystem and framework.
 
-## Additional Steps for Apple M1 Machines
+## Added Feature
+- Sold-out badge
+- Added categories for products
+- Bug fixes on user interface and missing admin security
+- User authentication; hashed password using bcrypt
+- Allowed only admins to add products and categories
 
-1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
-1. Install ImageMagick `brew install imagemagick imagemagick@6 --build-from-source`
-2. Remove Gemfile.lock
-3. Replace Gemfile with version provided [here](https://gist.githubusercontent.com/FrancisBourgouin/831795ae12c4704687a0c2496d91a727/raw/ce8e2104f725f43e56650d404169c7b11c33a5c5/Gemfile)
+## Tested 
+- RSpec
+- Capybara
+- Poltergeist
+- Database_cleaner
 
 ## Setup
 
@@ -32,4 +38,19 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * PostgreSQL 9.x
 * Stripe
 
-Thank you
+## Final Product
+
+### Home Page
+!["screenshot of homepage"](./docs/jungle-homepage.jpg)
+
+### Admin Categories
+!["screenshot of admin categories"](./docs/admin-categories.jpg)
+
+### Admin Products
+!["screenshot of admin products"](./docs/admin-products.jpg)
+
+### My Cart
+!["screenshot of cart"](./docs/my-cart.jpg)
+
+### Signups
+!["screenshot of signups"](./docs/signup-page.jpg)
